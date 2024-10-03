@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SodiumAutoFix</string>
+    <string name="select_file">选择文件</string>
+    <string name="start_fix">开始修复</string>
+    <string name="selected_file_name">选择的文件:</string>
+    <string name="selected_file_valid">是否有效:</string>
+    <string name="selected_file_modloader">Mod Loader:</string>
+    <string name="selected_file_modId">Mod Id:</string>
+    <string name="selected_file_modVersion">Mod 版本:</string>
+    <string name="selected_file_mixin_file">Mixin 文件:</string>
+    <string name="yes">有效</string>
+    <string name="no">无效</string>
+    <string name="none">无需进行任何修改</string>
+    <string name="unsupported">修改后仍然无效</string>
+    <string name="fix_end">已完成修复</string>
+    <string name="fix_save">保存修改中</string>
+    <string name="fix_error">修复过程中出现了异常\n%s</string>
+</resources>
